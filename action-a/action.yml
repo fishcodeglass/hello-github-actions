@@ -9,7 +9,7 @@ inputs:
     default: "World"
     
 runs:
-  using: "docerk"
+  using: "docker"
   image: "Dockerfile"
   
 branding:
